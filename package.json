@@ -1,0 +1,19 @@
+{
+  "name": "wireframe-nascar-site",
+  "version": "0.0.1",
+  "description": "simple wireframe website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentucky-roberts/wireframe-nascar-site.git"
+  },
+  "author": "Christopher J. Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentucky-roberts/wireframe-nascar-site/issues"
+  },
+  "homepage": "https://github.com/kentucky-roberts/wireframe-nascar-site#readme"
+}
