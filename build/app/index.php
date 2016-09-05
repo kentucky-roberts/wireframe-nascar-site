@@ -19,7 +19,7 @@
   </head>
   <body>
 
-    <?php include 'global_embeds/top-nav.php'; ?>
+    <?php include 'components/top-nav.php'; ?>
 
     <div class="container">
       <div class="row">

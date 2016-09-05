@@ -39,8 +39,29 @@
 
     <script src="../../../lib/jquery/dist/jquery.min.js"></script>
     <script src="../../../lib/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="../app.module.js"></script>
-    <script src="../app.config.js"></script>
+
+    <script src="../app.js"></script>
     <script src="../app.core.js"></script>
+
+    <script src="../core/core.js"></script>
+    <script src="../core/core.controller.js"></script>
+    <script src="../core/core.router.js"></script>
+
+    <script src="../sessions/sessions.controller.js"></script>
+    <script src="../sessions/session-detail.controller.js"></script>
+    <script src="../sessions/sessions.routes.js"></script>
+
+    <script src="../photos/photos.js"></script>
+    <script src="../photos/photos.controller.js"></script>
+    <script src="../photos/photos.service.js"></script>
+
+    <script src="../movies/movies.js"></script>
+    <script src="../movies/movies.controller.js"></script>
+    <script src="../movies/movies.service.js"></script>
+
+    <script src="../blog/blog.js"></script>
+    <script src="../blog/blog.controller.js"></script>
+    <script src="../blog/blog.service.js"></script>
+
   </body>
 </html>
